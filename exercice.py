@@ -4,12 +4,12 @@
 
 def square_root(number: int) -> float:
     # TODO completer la fonction
-    return square_rooted
+    return square_rooted ** 0.5
 
 
 def square(number: int) -> int:
     # TODO completer la fonction
-    return squared
+    return squared 
 
 
 def main() -> None:
